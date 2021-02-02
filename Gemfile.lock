@@ -14,6 +14,7 @@ GEM
 PLATFORMS
   ruby
 
+
 DEPENDENCIES
   encrypted_strings
   sinatra (= 1.4.7)
